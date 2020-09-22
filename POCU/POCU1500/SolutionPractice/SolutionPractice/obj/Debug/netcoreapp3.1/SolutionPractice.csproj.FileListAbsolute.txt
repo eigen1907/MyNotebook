@@ -1,0 +1,4 @@
+C:\Shinjongwon\practice\SolutionPractice\SolutionPractice\bin\Debug\netcoreapp3.1\MyLibrary.dll
+C:\Shinjongwon\practice\SolutionPractice\SolutionPractice\obj\Debug\netcoreapp3.1\SolutionPractice.csprojAssemblyReference.cache
+C:\Shinjongwon\practice\SolutionPractice\SolutionPractice\obj\Debug\netcoreapp3.1\SolutionPractice.AssemblyInfoInputs.cache
+C:\Shinjongwon\practice\SolutionPractice\SolutionPractice\obj\Debug\netcoreapp3.1\SolutionPractice.AssemblyInfo.cs

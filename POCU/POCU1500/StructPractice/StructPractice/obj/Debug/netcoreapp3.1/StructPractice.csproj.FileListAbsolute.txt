@@ -1,0 +1,13 @@
+C:\Users\Metanet\Desktop\신종원\practice\StructPractice\StructPractice\bin\Debug\netcoreapp3.1\StructPractice.exe
+C:\Users\Metanet\Desktop\신종원\practice\StructPractice\StructPractice\bin\Debug\netcoreapp3.1\StructPractice.deps.json
+C:\Users\Metanet\Desktop\신종원\practice\StructPractice\StructPractice\bin\Debug\netcoreapp3.1\StructPractice.runtimeconfig.json
+C:\Users\Metanet\Desktop\신종원\practice\StructPractice\StructPractice\bin\Debug\netcoreapp3.1\StructPractice.runtimeconfig.dev.json
+C:\Users\Metanet\Desktop\신종원\practice\StructPractice\StructPractice\bin\Debug\netcoreapp3.1\StructPractice.dll
+C:\Users\Metanet\Desktop\신종원\practice\StructPractice\StructPractice\bin\Debug\netcoreapp3.1\StructPractice.pdb
+C:\Users\Metanet\Desktop\신종원\practice\StructPractice\StructPractice\obj\Debug\netcoreapp3.1\StructPractice.AssemblyInfoInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\StructPractice\StructPractice\obj\Debug\netcoreapp3.1\StructPractice.AssemblyInfo.cs
+C:\Users\Metanet\Desktop\신종원\practice\StructPractice\StructPractice\obj\Debug\netcoreapp3.1\StructPractice.csproj.CoreCompileInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\StructPractice\StructPractice\obj\Debug\netcoreapp3.1\StructPractice.dll
+C:\Users\Metanet\Desktop\신종원\practice\StructPractice\StructPractice\obj\Debug\netcoreapp3.1\StructPractice.pdb
+C:\Users\Metanet\Desktop\신종원\practice\StructPractice\StructPractice\obj\Debug\netcoreapp3.1\StructPractice.genruntimeconfig.cache
+C:\Users\Metanet\Desktop\신종원\practice\StructPractice\StructPractice\obj\Debug\netcoreapp3.1\StructPractice.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Metanet\Desktop\신종원\practice\OutParameter\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.exe
+C:\Users\Metanet\Desktop\신종원\practice\OutParameter\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.deps.json
+C:\Users\Metanet\Desktop\신종원\practice\OutParameter\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.runtimeconfig.json
+C:\Users\Metanet\Desktop\신종원\practice\OutParameter\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.runtimeconfig.dev.json
+C:\Users\Metanet\Desktop\신종원\practice\OutParameter\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.dll
+C:\Users\Metanet\Desktop\신종원\practice\OutParameter\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.pdb
+C:\Users\Metanet\Desktop\신종원\practice\OutParameter\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.csprojAssemblyReference.cache
+C:\Users\Metanet\Desktop\신종원\practice\OutParameter\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.AssemblyInfoInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\OutParameter\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.AssemblyInfo.cs
+C:\Users\Metanet\Desktop\신종원\practice\OutParameter\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.csproj.CoreCompileInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\OutParameter\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.dll
+C:\Users\Metanet\Desktop\신종원\practice\OutParameter\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.pdb
+C:\Users\Metanet\Desktop\신종원\practice\OutParameter\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.genruntimeconfig.cache

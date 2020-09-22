@@ -1,0 +1,13 @@
+C:\Users\Metanet\Desktop\신종원\practice\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.1\CollectionPractice.exe
+C:\Users\Metanet\Desktop\신종원\practice\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.1\CollectionPractice.deps.json
+C:\Users\Metanet\Desktop\신종원\practice\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.1\CollectionPractice.runtimeconfig.json
+C:\Users\Metanet\Desktop\신종원\practice\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.1\CollectionPractice.runtimeconfig.dev.json
+C:\Users\Metanet\Desktop\신종원\practice\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.1\CollectionPractice.dll
+C:\Users\Metanet\Desktop\신종원\practice\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.1\CollectionPractice.pdb
+C:\Users\Metanet\Desktop\신종원\practice\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.1\CollectionPractice.csprojAssemblyReference.cache
+C:\Users\Metanet\Desktop\신종원\practice\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.1\CollectionPractice.AssemblyInfoInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.1\CollectionPractice.AssemblyInfo.cs
+C:\Users\Metanet\Desktop\신종원\practice\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.1\CollectionPractice.csproj.CoreCompileInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.1\CollectionPractice.dll
+C:\Users\Metanet\Desktop\신종원\practice\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.1\CollectionPractice.pdb
+C:\Users\Metanet\Desktop\신종원\practice\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.1\CollectionPractice.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Metanet\Desktop\신종원\practice\RandomPractice\RandomPractice\bin\Debug\netcoreapp3.1\RandomPractice.exe
+C:\Users\Metanet\Desktop\신종원\practice\RandomPractice\RandomPractice\bin\Debug\netcoreapp3.1\RandomPractice.deps.json
+C:\Users\Metanet\Desktop\신종원\practice\RandomPractice\RandomPractice\bin\Debug\netcoreapp3.1\RandomPractice.runtimeconfig.json
+C:\Users\Metanet\Desktop\신종원\practice\RandomPractice\RandomPractice\bin\Debug\netcoreapp3.1\RandomPractice.runtimeconfig.dev.json
+C:\Users\Metanet\Desktop\신종원\practice\RandomPractice\RandomPractice\bin\Debug\netcoreapp3.1\RandomPractice.dll
+C:\Users\Metanet\Desktop\신종원\practice\RandomPractice\RandomPractice\bin\Debug\netcoreapp3.1\RandomPractice.pdb
+C:\Users\Metanet\Desktop\신종원\practice\RandomPractice\RandomPractice\obj\Debug\netcoreapp3.1\RandomPractice.csprojAssemblyReference.cache
+C:\Users\Metanet\Desktop\신종원\practice\RandomPractice\RandomPractice\obj\Debug\netcoreapp3.1\RandomPractice.AssemblyInfoInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\RandomPractice\RandomPractice\obj\Debug\netcoreapp3.1\RandomPractice.AssemblyInfo.cs
+C:\Users\Metanet\Desktop\신종원\practice\RandomPractice\RandomPractice\obj\Debug\netcoreapp3.1\RandomPractice.csproj.CoreCompileInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\RandomPractice\RandomPractice\obj\Debug\netcoreapp3.1\RandomPractice.dll
+C:\Users\Metanet\Desktop\신종원\practice\RandomPractice\RandomPractice\obj\Debug\netcoreapp3.1\RandomPractice.pdb
+C:\Users\Metanet\Desktop\신종원\practice\RandomPractice\RandomPractice\obj\Debug\netcoreapp3.1\RandomPractice.genruntimeconfig.cache

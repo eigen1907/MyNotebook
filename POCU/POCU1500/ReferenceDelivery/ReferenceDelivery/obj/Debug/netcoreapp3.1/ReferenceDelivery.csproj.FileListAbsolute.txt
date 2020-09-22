@@ -1,0 +1,12 @@
+C:\Users\Metanet\Desktop\신종원\practice\ReferenceDelivery\ReferenceDelivery\bin\Debug\netcoreapp3.1\ReferenceDelivery.exe
+C:\Users\Metanet\Desktop\신종원\practice\ReferenceDelivery\ReferenceDelivery\bin\Debug\netcoreapp3.1\ReferenceDelivery.deps.json
+C:\Users\Metanet\Desktop\신종원\practice\ReferenceDelivery\ReferenceDelivery\bin\Debug\netcoreapp3.1\ReferenceDelivery.runtimeconfig.json
+C:\Users\Metanet\Desktop\신종원\practice\ReferenceDelivery\ReferenceDelivery\bin\Debug\netcoreapp3.1\ReferenceDelivery.runtimeconfig.dev.json
+C:\Users\Metanet\Desktop\신종원\practice\ReferenceDelivery\ReferenceDelivery\bin\Debug\netcoreapp3.1\ReferenceDelivery.dll
+C:\Users\Metanet\Desktop\신종원\practice\ReferenceDelivery\ReferenceDelivery\bin\Debug\netcoreapp3.1\ReferenceDelivery.pdb
+C:\Users\Metanet\Desktop\신종원\practice\ReferenceDelivery\ReferenceDelivery\obj\Debug\netcoreapp3.1\ReferenceDelivery.AssemblyInfoInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\ReferenceDelivery\ReferenceDelivery\obj\Debug\netcoreapp3.1\ReferenceDelivery.AssemblyInfo.cs
+C:\Users\Metanet\Desktop\신종원\practice\ReferenceDelivery\ReferenceDelivery\obj\Debug\netcoreapp3.1\ReferenceDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\ReferenceDelivery\ReferenceDelivery\obj\Debug\netcoreapp3.1\ReferenceDelivery.dll
+C:\Users\Metanet\Desktop\신종원\practice\ReferenceDelivery\ReferenceDelivery\obj\Debug\netcoreapp3.1\ReferenceDelivery.pdb
+C:\Users\Metanet\Desktop\신종원\practice\ReferenceDelivery\ReferenceDelivery\obj\Debug\netcoreapp3.1\ReferenceDelivery.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Shinjongwon\practice\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.exe
+C:\Shinjongwon\practice\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.deps.json
+C:\Shinjongwon\practice\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.json
+C:\Shinjongwon\practice\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.dev.json
+C:\Shinjongwon\practice\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.dll
+C:\Shinjongwon\practice\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.pdb
+C:\Shinjongwon\practice\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csprojAssemblyReference.cache
+C:\Shinjongwon\practice\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfoInputs.cache
+C:\Shinjongwon\practice\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfo.cs
+C:\Shinjongwon\practice\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Shinjongwon\practice\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.dll
+C:\Shinjongwon\practice\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.pdb
+C:\Shinjongwon\practice\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.genruntimeconfig.cache

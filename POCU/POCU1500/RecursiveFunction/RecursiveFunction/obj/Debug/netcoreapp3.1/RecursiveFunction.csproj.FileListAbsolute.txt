@@ -1,0 +1,13 @@
+C:\Users\Metanet\Desktop\신종원\practice\RecursiveFunction\RecursiveFunction\bin\Debug\netcoreapp3.1\RecursiveFunction.exe
+C:\Users\Metanet\Desktop\신종원\practice\RecursiveFunction\RecursiveFunction\bin\Debug\netcoreapp3.1\RecursiveFunction.deps.json
+C:\Users\Metanet\Desktop\신종원\practice\RecursiveFunction\RecursiveFunction\bin\Debug\netcoreapp3.1\RecursiveFunction.runtimeconfig.json
+C:\Users\Metanet\Desktop\신종원\practice\RecursiveFunction\RecursiveFunction\bin\Debug\netcoreapp3.1\RecursiveFunction.runtimeconfig.dev.json
+C:\Users\Metanet\Desktop\신종원\practice\RecursiveFunction\RecursiveFunction\bin\Debug\netcoreapp3.1\RecursiveFunction.dll
+C:\Users\Metanet\Desktop\신종원\practice\RecursiveFunction\RecursiveFunction\bin\Debug\netcoreapp3.1\RecursiveFunction.pdb
+C:\Users\Metanet\Desktop\신종원\practice\RecursiveFunction\RecursiveFunction\obj\Debug\netcoreapp3.1\RecursiveFunction.csprojAssemblyReference.cache
+C:\Users\Metanet\Desktop\신종원\practice\RecursiveFunction\RecursiveFunction\obj\Debug\netcoreapp3.1\RecursiveFunction.AssemblyInfoInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\RecursiveFunction\RecursiveFunction\obj\Debug\netcoreapp3.1\RecursiveFunction.AssemblyInfo.cs
+C:\Users\Metanet\Desktop\신종원\practice\RecursiveFunction\RecursiveFunction\obj\Debug\netcoreapp3.1\RecursiveFunction.csproj.CoreCompileInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\RecursiveFunction\RecursiveFunction\obj\Debug\netcoreapp3.1\RecursiveFunction.dll
+C:\Users\Metanet\Desktop\신종원\practice\RecursiveFunction\RecursiveFunction\obj\Debug\netcoreapp3.1\RecursiveFunction.pdb
+C:\Users\Metanet\Desktop\신종원\practice\RecursiveFunction\RecursiveFunction\obj\Debug\netcoreapp3.1\RecursiveFunction.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Metanet\Desktop\신종원\practice\PracticeSpace\PracticeSpace\bin\Debug\netcoreapp3.1\PracticeSpace.exe
+C:\Users\Metanet\Desktop\신종원\practice\PracticeSpace\PracticeSpace\bin\Debug\netcoreapp3.1\PracticeSpace.deps.json
+C:\Users\Metanet\Desktop\신종원\practice\PracticeSpace\PracticeSpace\bin\Debug\netcoreapp3.1\PracticeSpace.runtimeconfig.json
+C:\Users\Metanet\Desktop\신종원\practice\PracticeSpace\PracticeSpace\bin\Debug\netcoreapp3.1\PracticeSpace.runtimeconfig.dev.json
+C:\Users\Metanet\Desktop\신종원\practice\PracticeSpace\PracticeSpace\bin\Debug\netcoreapp3.1\PracticeSpace.dll
+C:\Users\Metanet\Desktop\신종원\practice\PracticeSpace\PracticeSpace\bin\Debug\netcoreapp3.1\PracticeSpace.pdb
+C:\Users\Metanet\Desktop\신종원\practice\PracticeSpace\PracticeSpace\obj\Debug\netcoreapp3.1\PracticeSpace.csprojAssemblyReference.cache
+C:\Users\Metanet\Desktop\신종원\practice\PracticeSpace\PracticeSpace\obj\Debug\netcoreapp3.1\PracticeSpace.AssemblyInfoInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\PracticeSpace\PracticeSpace\obj\Debug\netcoreapp3.1\PracticeSpace.AssemblyInfo.cs
+C:\Users\Metanet\Desktop\신종원\practice\PracticeSpace\PracticeSpace\obj\Debug\netcoreapp3.1\PracticeSpace.csproj.CoreCompileInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\PracticeSpace\PracticeSpace\obj\Debug\netcoreapp3.1\PracticeSpace.dll
+C:\Users\Metanet\Desktop\신종원\practice\PracticeSpace\PracticeSpace\obj\Debug\netcoreapp3.1\PracticeSpace.pdb
+C:\Users\Metanet\Desktop\신종원\practice\PracticeSpace\PracticeSpace\obj\Debug\netcoreapp3.1\PracticeSpace.genruntimeconfig.cache

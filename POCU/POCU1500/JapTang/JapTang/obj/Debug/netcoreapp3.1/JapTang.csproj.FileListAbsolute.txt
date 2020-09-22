@@ -1,0 +1,13 @@
+C:\Shinjongwon\practice\JapTang\JapTang\bin\Debug\netcoreapp3.1\JapTang.exe
+C:\Shinjongwon\practice\JapTang\JapTang\bin\Debug\netcoreapp3.1\JapTang.deps.json
+C:\Shinjongwon\practice\JapTang\JapTang\bin\Debug\netcoreapp3.1\JapTang.runtimeconfig.json
+C:\Shinjongwon\practice\JapTang\JapTang\bin\Debug\netcoreapp3.1\JapTang.runtimeconfig.dev.json
+C:\Shinjongwon\practice\JapTang\JapTang\bin\Debug\netcoreapp3.1\JapTang.dll
+C:\Shinjongwon\practice\JapTang\JapTang\bin\Debug\netcoreapp3.1\JapTang.pdb
+C:\Shinjongwon\practice\JapTang\JapTang\obj\Debug\netcoreapp3.1\JapTang.csprojAssemblyReference.cache
+C:\Shinjongwon\practice\JapTang\JapTang\obj\Debug\netcoreapp3.1\JapTang.AssemblyInfoInputs.cache
+C:\Shinjongwon\practice\JapTang\JapTang\obj\Debug\netcoreapp3.1\JapTang.AssemblyInfo.cs
+C:\Shinjongwon\practice\JapTang\JapTang\obj\Debug\netcoreapp3.1\JapTang.csproj.CoreCompileInputs.cache
+C:\Shinjongwon\practice\JapTang\JapTang\obj\Debug\netcoreapp3.1\JapTang.dll
+C:\Shinjongwon\practice\JapTang\JapTang\obj\Debug\netcoreapp3.1\JapTang.pdb
+C:\Shinjongwon\practice\JapTang\JapTang\obj\Debug\netcoreapp3.1\JapTang.genruntimeconfig.cache

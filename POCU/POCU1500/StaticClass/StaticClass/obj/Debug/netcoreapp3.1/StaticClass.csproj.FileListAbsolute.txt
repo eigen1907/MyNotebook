@@ -1,0 +1,13 @@
+C:\Users\Metanet\Desktop\신종원\practice\StaticClass\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.exe
+C:\Users\Metanet\Desktop\신종원\practice\StaticClass\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.deps.json
+C:\Users\Metanet\Desktop\신종원\practice\StaticClass\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.runtimeconfig.json
+C:\Users\Metanet\Desktop\신종원\practice\StaticClass\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.runtimeconfig.dev.json
+C:\Users\Metanet\Desktop\신종원\practice\StaticClass\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.dll
+C:\Users\Metanet\Desktop\신종원\practice\StaticClass\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.pdb
+C:\Users\Metanet\Desktop\신종원\practice\StaticClass\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.csprojAssemblyReference.cache
+C:\Users\Metanet\Desktop\신종원\practice\StaticClass\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.AssemblyInfoInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\StaticClass\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.AssemblyInfo.cs
+C:\Users\Metanet\Desktop\신종원\practice\StaticClass\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\StaticClass\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.dll
+C:\Users\Metanet\Desktop\신종원\practice\StaticClass\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.pdb
+C:\Users\Metanet\Desktop\신종원\practice\StaticClass\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.genruntimeconfig.cache

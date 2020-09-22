@@ -1,0 +1,13 @@
+C:\Users\Metanet\Desktop\신종원\practice\DictionaryCollectionPractice\DictionaryCollectionPractice\bin\Debug\netcoreapp3.1\DictionaryCollectionPractice.exe
+C:\Users\Metanet\Desktop\신종원\practice\DictionaryCollectionPractice\DictionaryCollectionPractice\bin\Debug\netcoreapp3.1\DictionaryCollectionPractice.deps.json
+C:\Users\Metanet\Desktop\신종원\practice\DictionaryCollectionPractice\DictionaryCollectionPractice\bin\Debug\netcoreapp3.1\DictionaryCollectionPractice.runtimeconfig.json
+C:\Users\Metanet\Desktop\신종원\practice\DictionaryCollectionPractice\DictionaryCollectionPractice\bin\Debug\netcoreapp3.1\DictionaryCollectionPractice.runtimeconfig.dev.json
+C:\Users\Metanet\Desktop\신종원\practice\DictionaryCollectionPractice\DictionaryCollectionPractice\bin\Debug\netcoreapp3.1\DictionaryCollectionPractice.dll
+C:\Users\Metanet\Desktop\신종원\practice\DictionaryCollectionPractice\DictionaryCollectionPractice\bin\Debug\netcoreapp3.1\DictionaryCollectionPractice.pdb
+C:\Users\Metanet\Desktop\신종원\practice\DictionaryCollectionPractice\DictionaryCollectionPractice\obj\Debug\netcoreapp3.1\DictionaryCollectionPractice.csprojAssemblyReference.cache
+C:\Users\Metanet\Desktop\신종원\practice\DictionaryCollectionPractice\DictionaryCollectionPractice\obj\Debug\netcoreapp3.1\DictionaryCollectionPractice.AssemblyInfoInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\DictionaryCollectionPractice\DictionaryCollectionPractice\obj\Debug\netcoreapp3.1\DictionaryCollectionPractice.AssemblyInfo.cs
+C:\Users\Metanet\Desktop\신종원\practice\DictionaryCollectionPractice\DictionaryCollectionPractice\obj\Debug\netcoreapp3.1\DictionaryCollectionPractice.csproj.CoreCompileInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\DictionaryCollectionPractice\DictionaryCollectionPractice\obj\Debug\netcoreapp3.1\DictionaryCollectionPractice.dll
+C:\Users\Metanet\Desktop\신종원\practice\DictionaryCollectionPractice\DictionaryCollectionPractice\obj\Debug\netcoreapp3.1\DictionaryCollectionPractice.pdb
+C:\Users\Metanet\Desktop\신종원\practice\DictionaryCollectionPractice\DictionaryCollectionPractice\obj\Debug\netcoreapp3.1\DictionaryCollectionPractice.genruntimeconfig.cache

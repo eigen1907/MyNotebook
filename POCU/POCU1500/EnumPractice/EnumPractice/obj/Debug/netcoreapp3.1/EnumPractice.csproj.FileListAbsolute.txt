@@ -1,0 +1,13 @@
+C:\Users\Metanet\Desktop\신종원\practice\EnumPractice\EnumPractice\bin\Debug\netcoreapp3.1\EnumPractice.exe
+C:\Users\Metanet\Desktop\신종원\practice\EnumPractice\EnumPractice\bin\Debug\netcoreapp3.1\EnumPractice.deps.json
+C:\Users\Metanet\Desktop\신종원\practice\EnumPractice\EnumPractice\bin\Debug\netcoreapp3.1\EnumPractice.runtimeconfig.json
+C:\Users\Metanet\Desktop\신종원\practice\EnumPractice\EnumPractice\bin\Debug\netcoreapp3.1\EnumPractice.runtimeconfig.dev.json
+C:\Users\Metanet\Desktop\신종원\practice\EnumPractice\EnumPractice\bin\Debug\netcoreapp3.1\EnumPractice.dll
+C:\Users\Metanet\Desktop\신종원\practice\EnumPractice\EnumPractice\bin\Debug\netcoreapp3.1\EnumPractice.pdb
+C:\Users\Metanet\Desktop\신종원\practice\EnumPractice\EnumPractice\obj\Debug\netcoreapp3.1\EnumPractice.csprojAssemblyReference.cache
+C:\Users\Metanet\Desktop\신종원\practice\EnumPractice\EnumPractice\obj\Debug\netcoreapp3.1\EnumPractice.AssemblyInfoInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\EnumPractice\EnumPractice\obj\Debug\netcoreapp3.1\EnumPractice.AssemblyInfo.cs
+C:\Users\Metanet\Desktop\신종원\practice\EnumPractice\EnumPractice\obj\Debug\netcoreapp3.1\EnumPractice.csproj.CoreCompileInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\EnumPractice\EnumPractice\obj\Debug\netcoreapp3.1\EnumPractice.dll
+C:\Users\Metanet\Desktop\신종원\practice\EnumPractice\EnumPractice\obj\Debug\netcoreapp3.1\EnumPractice.pdb
+C:\Users\Metanet\Desktop\신종원\practice\EnumPractice\EnumPractice\obj\Debug\netcoreapp3.1\EnumPractice.genruntimeconfig.cache

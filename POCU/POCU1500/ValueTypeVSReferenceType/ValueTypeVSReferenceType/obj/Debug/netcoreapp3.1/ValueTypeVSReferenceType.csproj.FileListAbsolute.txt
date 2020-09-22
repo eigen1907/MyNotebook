@@ -1,0 +1,13 @@
+C:\Users\Metanet\Desktop\신종원\practice\ValueTypeVSReferenceType\ValueTypeVSReferenceType\bin\Debug\netcoreapp3.1\ValueTypeVSReferenceType.exe
+C:\Users\Metanet\Desktop\신종원\practice\ValueTypeVSReferenceType\ValueTypeVSReferenceType\bin\Debug\netcoreapp3.1\ValueTypeVSReferenceType.deps.json
+C:\Users\Metanet\Desktop\신종원\practice\ValueTypeVSReferenceType\ValueTypeVSReferenceType\bin\Debug\netcoreapp3.1\ValueTypeVSReferenceType.runtimeconfig.json
+C:\Users\Metanet\Desktop\신종원\practice\ValueTypeVSReferenceType\ValueTypeVSReferenceType\bin\Debug\netcoreapp3.1\ValueTypeVSReferenceType.runtimeconfig.dev.json
+C:\Users\Metanet\Desktop\신종원\practice\ValueTypeVSReferenceType\ValueTypeVSReferenceType\bin\Debug\netcoreapp3.1\ValueTypeVSReferenceType.dll
+C:\Users\Metanet\Desktop\신종원\practice\ValueTypeVSReferenceType\ValueTypeVSReferenceType\bin\Debug\netcoreapp3.1\ValueTypeVSReferenceType.pdb
+C:\Users\Metanet\Desktop\신종원\practice\ValueTypeVSReferenceType\ValueTypeVSReferenceType\obj\Debug\netcoreapp3.1\ValueTypeVSReferenceType.csprojAssemblyReference.cache
+C:\Users\Metanet\Desktop\신종원\practice\ValueTypeVSReferenceType\ValueTypeVSReferenceType\obj\Debug\netcoreapp3.1\ValueTypeVSReferenceType.AssemblyInfoInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\ValueTypeVSReferenceType\ValueTypeVSReferenceType\obj\Debug\netcoreapp3.1\ValueTypeVSReferenceType.AssemblyInfo.cs
+C:\Users\Metanet\Desktop\신종원\practice\ValueTypeVSReferenceType\ValueTypeVSReferenceType\obj\Debug\netcoreapp3.1\ValueTypeVSReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\ValueTypeVSReferenceType\ValueTypeVSReferenceType\obj\Debug\netcoreapp3.1\ValueTypeVSReferenceType.dll
+C:\Users\Metanet\Desktop\신종원\practice\ValueTypeVSReferenceType\ValueTypeVSReferenceType\obj\Debug\netcoreapp3.1\ValueTypeVSReferenceType.pdb
+C:\Users\Metanet\Desktop\신종원\practice\ValueTypeVSReferenceType\ValueTypeVSReferenceType\obj\Debug\netcoreapp3.1\ValueTypeVSReferenceType.genruntimeconfig.cache

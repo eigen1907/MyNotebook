@@ -1,0 +1,12 @@
+C:\Users\Metanet\Desktop\신종원\practice\AssertPractice\AssertPractice\bin\Debug\netcoreapp3.1\AssertPractice.exe
+C:\Users\Metanet\Desktop\신종원\practice\AssertPractice\AssertPractice\bin\Debug\netcoreapp3.1\AssertPractice.deps.json
+C:\Users\Metanet\Desktop\신종원\practice\AssertPractice\AssertPractice\bin\Debug\netcoreapp3.1\AssertPractice.runtimeconfig.json
+C:\Users\Metanet\Desktop\신종원\practice\AssertPractice\AssertPractice\bin\Debug\netcoreapp3.1\AssertPractice.runtimeconfig.dev.json
+C:\Users\Metanet\Desktop\신종원\practice\AssertPractice\AssertPractice\bin\Debug\netcoreapp3.1\AssertPractice.dll
+C:\Users\Metanet\Desktop\신종원\practice\AssertPractice\AssertPractice\bin\Debug\netcoreapp3.1\AssertPractice.pdb
+C:\Users\Metanet\Desktop\신종원\practice\AssertPractice\AssertPractice\obj\Debug\netcoreapp3.1\AssertPractice.AssemblyInfoInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\AssertPractice\AssertPractice\obj\Debug\netcoreapp3.1\AssertPractice.AssemblyInfo.cs
+C:\Users\Metanet\Desktop\신종원\practice\AssertPractice\AssertPractice\obj\Debug\netcoreapp3.1\AssertPractice.csproj.CoreCompileInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\AssertPractice\AssertPractice\obj\Debug\netcoreapp3.1\AssertPractice.dll
+C:\Users\Metanet\Desktop\신종원\practice\AssertPractice\AssertPractice\obj\Debug\netcoreapp3.1\AssertPractice.pdb
+C:\Users\Metanet\Desktop\신종원\practice\AssertPractice\AssertPractice\obj\Debug\netcoreapp3.1\AssertPractice.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Metanet\Desktop\신종원\practice\referencePractice\referencePractice\bin\Debug\netcoreapp3.1\referencePractice.exe
+C:\Users\Metanet\Desktop\신종원\practice\referencePractice\referencePractice\bin\Debug\netcoreapp3.1\referencePractice.deps.json
+C:\Users\Metanet\Desktop\신종원\practice\referencePractice\referencePractice\bin\Debug\netcoreapp3.1\referencePractice.runtimeconfig.json
+C:\Users\Metanet\Desktop\신종원\practice\referencePractice\referencePractice\bin\Debug\netcoreapp3.1\referencePractice.runtimeconfig.dev.json
+C:\Users\Metanet\Desktop\신종원\practice\referencePractice\referencePractice\bin\Debug\netcoreapp3.1\referencePractice.dll
+C:\Users\Metanet\Desktop\신종원\practice\referencePractice\referencePractice\bin\Debug\netcoreapp3.1\referencePractice.pdb
+C:\Users\Metanet\Desktop\신종원\practice\referencePractice\referencePractice\obj\Debug\netcoreapp3.1\referencePractice.AssemblyInfoInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\referencePractice\referencePractice\obj\Debug\netcoreapp3.1\referencePractice.AssemblyInfo.cs
+C:\Users\Metanet\Desktop\신종원\practice\referencePractice\referencePractice\obj\Debug\netcoreapp3.1\referencePractice.csproj.CoreCompileInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\referencePractice\referencePractice\obj\Debug\netcoreapp3.1\referencePractice.dll
+C:\Users\Metanet\Desktop\신종원\practice\referencePractice\referencePractice\obj\Debug\netcoreapp3.1\referencePractice.pdb
+C:\Users\Metanet\Desktop\신종원\practice\referencePractice\referencePractice\obj\Debug\netcoreapp3.1\referencePractice.genruntimeconfig.cache
+C:\Users\Metanet\Desktop\신종원\practice\referencePractice\referencePractice\obj\Debug\netcoreapp3.1\referencePractice.csprojAssemblyReference.cache

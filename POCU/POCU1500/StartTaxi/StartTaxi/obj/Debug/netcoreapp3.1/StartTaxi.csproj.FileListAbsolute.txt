@@ -1,0 +1,13 @@
+C:\Shinjongwon\practice\StartTaxi\StartTaxi\bin\Debug\netcoreapp3.1\StartTaxi.exe
+C:\Shinjongwon\practice\StartTaxi\StartTaxi\bin\Debug\netcoreapp3.1\StartTaxi.deps.json
+C:\Shinjongwon\practice\StartTaxi\StartTaxi\bin\Debug\netcoreapp3.1\StartTaxi.runtimeconfig.json
+C:\Shinjongwon\practice\StartTaxi\StartTaxi\bin\Debug\netcoreapp3.1\StartTaxi.runtimeconfig.dev.json
+C:\Shinjongwon\practice\StartTaxi\StartTaxi\bin\Debug\netcoreapp3.1\StartTaxi.dll
+C:\Shinjongwon\practice\StartTaxi\StartTaxi\bin\Debug\netcoreapp3.1\StartTaxi.pdb
+C:\Shinjongwon\practice\StartTaxi\StartTaxi\obj\Debug\netcoreapp3.1\StartTaxi.csprojAssemblyReference.cache
+C:\Shinjongwon\practice\StartTaxi\StartTaxi\obj\Debug\netcoreapp3.1\StartTaxi.AssemblyInfoInputs.cache
+C:\Shinjongwon\practice\StartTaxi\StartTaxi\obj\Debug\netcoreapp3.1\StartTaxi.AssemblyInfo.cs
+C:\Shinjongwon\practice\StartTaxi\StartTaxi\obj\Debug\netcoreapp3.1\StartTaxi.csproj.CoreCompileInputs.cache
+C:\Shinjongwon\practice\StartTaxi\StartTaxi\obj\Debug\netcoreapp3.1\StartTaxi.dll
+C:\Shinjongwon\practice\StartTaxi\StartTaxi\obj\Debug\netcoreapp3.1\StartTaxi.pdb
+C:\Shinjongwon\practice\StartTaxi\StartTaxi\obj\Debug\netcoreapp3.1\StartTaxi.genruntimeconfig.cache

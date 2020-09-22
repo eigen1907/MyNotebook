@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PIGy2Z4rzGAMhDoSYvOK14OiHL9Rh0ORvU4DHTAYNIrwv4yFyRRrH2j0KrFCSALmkUHLXqpnXSGhFrf6PVwXVA==",
+  "success": true,
+  "projectFilePath": "C:\\Shinjongwon\\practice\\SolutionPractice\\SolutionPractice\\SolutionPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Metanet\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

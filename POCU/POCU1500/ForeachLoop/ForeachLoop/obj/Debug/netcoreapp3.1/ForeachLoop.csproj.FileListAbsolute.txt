@@ -1,0 +1,12 @@
+C:\Users\Metanet\Desktop\신종원\practice\ForeachLoop\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.exe
+C:\Users\Metanet\Desktop\신종원\practice\ForeachLoop\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.deps.json
+C:\Users\Metanet\Desktop\신종원\practice\ForeachLoop\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.runtimeconfig.json
+C:\Users\Metanet\Desktop\신종원\practice\ForeachLoop\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.runtimeconfig.dev.json
+C:\Users\Metanet\Desktop\신종원\practice\ForeachLoop\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.dll
+C:\Users\Metanet\Desktop\신종원\practice\ForeachLoop\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.pdb
+C:\Users\Metanet\Desktop\신종원\practice\ForeachLoop\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.AssemblyInfoInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\ForeachLoop\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.AssemblyInfo.cs
+C:\Users\Metanet\Desktop\신종원\practice\ForeachLoop\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\ForeachLoop\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.dll
+C:\Users\Metanet\Desktop\신종원\practice\ForeachLoop\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.pdb
+C:\Users\Metanet\Desktop\신종원\practice\ForeachLoop\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.genruntimeconfig.cache

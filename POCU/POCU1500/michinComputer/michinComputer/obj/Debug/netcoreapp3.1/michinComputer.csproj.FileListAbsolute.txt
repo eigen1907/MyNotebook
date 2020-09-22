@@ -1,0 +1,13 @@
+C:\Users\Metanet\Desktop\신종원\practice\michinComputer\michinComputer\bin\Debug\netcoreapp3.1\michinComputer.exe
+C:\Users\Metanet\Desktop\신종원\practice\michinComputer\michinComputer\bin\Debug\netcoreapp3.1\michinComputer.deps.json
+C:\Users\Metanet\Desktop\신종원\practice\michinComputer\michinComputer\bin\Debug\netcoreapp3.1\michinComputer.runtimeconfig.json
+C:\Users\Metanet\Desktop\신종원\practice\michinComputer\michinComputer\bin\Debug\netcoreapp3.1\michinComputer.runtimeconfig.dev.json
+C:\Users\Metanet\Desktop\신종원\practice\michinComputer\michinComputer\bin\Debug\netcoreapp3.1\michinComputer.dll
+C:\Users\Metanet\Desktop\신종원\practice\michinComputer\michinComputer\bin\Debug\netcoreapp3.1\michinComputer.pdb
+C:\Users\Metanet\Desktop\신종원\practice\michinComputer\michinComputer\obj\Debug\netcoreapp3.1\michinComputer.AssemblyInfoInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\michinComputer\michinComputer\obj\Debug\netcoreapp3.1\michinComputer.AssemblyInfo.cs
+C:\Users\Metanet\Desktop\신종원\practice\michinComputer\michinComputer\obj\Debug\netcoreapp3.1\michinComputer.csproj.CoreCompileInputs.cache
+C:\Users\Metanet\Desktop\신종원\practice\michinComputer\michinComputer\obj\Debug\netcoreapp3.1\michinComputer.dll
+C:\Users\Metanet\Desktop\신종원\practice\michinComputer\michinComputer\obj\Debug\netcoreapp3.1\michinComputer.pdb
+C:\Users\Metanet\Desktop\신종원\practice\michinComputer\michinComputer\obj\Debug\netcoreapp3.1\michinComputer.genruntimeconfig.cache
+C:\Users\Metanet\Desktop\신종원\practice\michinComputer\michinComputer\obj\Debug\netcoreapp3.1\michinComputer.csprojAssemblyReference.cache
